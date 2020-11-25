@@ -18,3 +18,4 @@ while 1:
 			password_char = random.choice(all)
 			password      = password + password_char
 		print("Here is your password :- ",password)
+	break
